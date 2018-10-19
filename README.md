@@ -7,7 +7,7 @@
 
 ## 在线文档
 
-[Inception使用规范及说明文档](http://mysql-inception.github.io/inception-document/)
+[Inception使用规范及说明文档](https://magmongoing.github.io/inception-document/)
 
 ## 目录
 
